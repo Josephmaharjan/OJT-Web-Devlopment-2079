@@ -1,0 +1,9 @@
+today i learned about how to download the bootstrap v5.2 - compiled CSS & JS, link the bootstrap external css into day3/index.html
+
+
+www.getbootstrap.com
+|-> Docs
+    |->download
+        |->basic bootstrap
+            |->bootstrap.min.css
+            |->bootstrap.min.js

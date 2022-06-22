@@ -1,0 +1,14 @@
+mobiles    xs-> very small
+mobiles    sm-> small
+tab        md-> medium
+laptop     lg-> large
+large desktop        xl-> extra large
+
+
+
+
+col-xs ->very small
+col-sm ->small
+col-md ->medium devices (tab)
+col-lg ->large devices (laptop)
+col-xl ->extra large (desktop)
